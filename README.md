@@ -1,6 +1,6 @@
 # 🧠 Allen: Data Science Command Center
 
-Allen is an AI-powered personal assistant designed to execute complex data science tasks, manage documents, and hold persistent voice conversations. 
+Allen is an AI-powered personal assistant designed to execute complex data science tasks, manage documents, and hold persistent voice conversations. demo
 
 ## 🎯 Project Philosophy: Agents & RAG over Fine-Tuning
 A major challenge with modern Large Language Models (LLMs) is that fine-tuning them to learn new information is incredibly resource-intensive. 
