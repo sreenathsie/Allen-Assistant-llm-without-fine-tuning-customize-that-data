@@ -19,7 +19,7 @@ Instead of fine-tuning, this project utilizes **Retrieval-Augmented Generation (
 This project is optimized to run on a **Google Colab Free Tier (T4 GPU - 15GB VRAM)**. 
 
 * **Core Model:** Qwen 2.5 (7B-Instruct).
-* **Quantization:** 4-bit quantization (`BitsAndBytesConfig`) is utilized to reduce the VRAM footprint from ~15GB down to ~8GB, preventing Out of Memory (OOM) errors and leaving space for audio and embedding models.
+* **Quantization:** 8-bit quantization (`BitsAndBytesConfig`) is utilized to reduce the VRAM footprint from ~15GB down to ~8GB, preventing Out of Memory (OOM) errors and leaving space for audio and embedding models.
 * **Agent Framework:** SmolAgents & LangChain
 * **Vector Database:** FAISS (CPU) with HuggingFace Embeddings
 * **Database:** SQLite
