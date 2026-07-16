@@ -1,0 +1,28 @@
+# Core model + quantization
+transformers
+bitsandbytes
+accelerate
+huggingface_hub
+
+# Agent framework
+smolagents
+duckduckgo-search
+
+# RAG (PDF retrieval)
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+faiss-cpu
+pypdf
+
+# Vision / OCR
+pytesseract
+pillow
+
+# Voice
+faster-whisper
+edge-tts
+
+# UI
+gradio>=4.0
